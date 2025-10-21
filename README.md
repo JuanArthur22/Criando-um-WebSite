@@ -1,2 +1,3 @@
-# Criando um WebSite
-Primeiro repositório do curso Git e GitHub
+# Criando um WebSite.
+Primeiro repositório do curso Git e GitHub.
+Repositório criado em uma aula ao vivo com Gustavo Guanabara.
